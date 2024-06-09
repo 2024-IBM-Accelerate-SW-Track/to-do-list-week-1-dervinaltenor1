@@ -3,3 +3,10 @@
     margin: auto;
     padding-bottom: 20px;
 }
+
+.todoCard{
+    background-color: var(--console);
+    border: 1px solid var(--accent2);
+    margin: 8px;
+    color: white;
+}
